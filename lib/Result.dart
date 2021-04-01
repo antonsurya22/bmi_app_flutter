@@ -136,6 +136,22 @@ class BMIResult extends StatelessWidget {
           ],
         ),
       ),
+      bottomNavigationBar: BottomAppBar(
+        //color: Colors.transparent,
+        child: Container(
+          height: 18,
+          color: Colors.pinkAccent,
+          alignment: Alignment.center,
+          child: Text(
+            'Developed by Anton S',
+            style: TextStyle(
+                fontSize: 10,
+                fontWeight: FontWeight.w300,
+                color: Colors.white),
+          ),
+        ),
+        //elevation: 0,
+      ),
     );
   }
 }
