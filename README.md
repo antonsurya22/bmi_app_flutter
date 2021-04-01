@@ -11,7 +11,8 @@ Main
 
 Result
 
-![image](https://user-images.githubusercontent.com/29690514/113237887-45698080-92da-11eb-9b23-5e4bd7c0dc17.png)
+![image](https://user-images.githubusercontent.com/29690514/113238327-24555f80-92db-11eb-9737-1d1afe0d70e9.png)
+
 
 About
 
